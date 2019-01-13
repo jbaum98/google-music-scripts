@@ -30,7 +30,7 @@ setup(
 	install_requires=[
 		'appdirs>=1.4',
 		'audio-metadata>=0.2',
-		'click>=6.0',
+		'click>=7.0',
 		'click-default-group>=1.2',
 		'google-music>=2.1',
 		'google-music-utils>=1.1',
